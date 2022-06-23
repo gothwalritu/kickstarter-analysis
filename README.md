@@ -24,7 +24,9 @@ At this stage we had a data of Kickstarters which were successful or nearly miss
 Then, I organized the data according to the need of our goals for the project. As Louise is interested in the “plays” which comes in “theater” category. 
 I created pivot tables and charts to check the effect of length of campaign on it success. I created another table and chart for plays outcomes based on their monetary goals which are shown and discussed in the following 3.1 and 3.2 sections. 
 
-***Challenge 3:*** It was quite challenging to create the table for the outcome of plays based on goal as there so many COUNTIFS looped in each other. At first it was confusing, and I kept doing mistake. But with practice and meticulous attention I was able to successfully produce the chart.
+***Challenge 3:*** It was quite challenging to create the table for the outcome of plays based on goal as there so many COUNTIFS looped in each other. At first it was confusing, and I kept doing mistake. But with practice and meticulous attention I was able to successfully produce the chart. Please chech the following picture for reference. 
+
+**Refer Picture 2.2**
  
 
 # 3.	Results
