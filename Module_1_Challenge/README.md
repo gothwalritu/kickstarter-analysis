@@ -49,7 +49,7 @@ The are many factors which can influence the success of a Kickstarter. And there
 ## 3.4	Other possible tables and/or graphs that could be created
 There could be multiple number of possible tables and/or graphs that could be created to assist us for making better decision, but due to limited time and efforts I am mentioning only the following:
 
-**a.**	 The outcomes based on launch date chart (picture 3.1) is misleading. The chart in section 3.1 is showing that the month of May has the highest number of successful Theater outcomes, but the month of May also has a highest number of failed outcomes. So, if we plot the successful outcomes in relation to the total outcomes (as shown in picture 3.4 a) then there is not much significant peak in that month. 
+**a.**	 The outcomes based on launch date chart (picture 3.1) is misleading. The chart in section 3.1 is showing that the month of May has the highest number of successful Theater outcomes, but the month of May also has a highest number of failed outcomes. So, if we plot the successful outcomes in relation to the total outcomes, as shown in picture 3.4 (a), then there is not much significant peak in that month. 
 
 ![***Picture 3.4 (a)***](/Module_1_Challenge/Resources/Picture_3.4_a.png)
 
