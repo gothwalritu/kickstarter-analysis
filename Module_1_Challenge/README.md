@@ -19,7 +19,7 @@ Now that the data is clean, filtered, formatted and ready for performing the ana
 
 At this stage we had a data of Kickstarters which were successful or nearly missed within similar funding range i.e., 10,000. To further refine the data, we used Pivot table to remove other categories but “Theater”. And then we created another pivot table using subcategories in order to focus on analysis on an area that is more relevant for Louise i.e., "play". With the analysis I came to know that plays subcategory was the most successful in US as well as Great Britain. The ***picture 2.1*** shows a pivot table and a bar chart for the country "Great Britain".
 
-***Refer Picture 2.1***
+![***Refer Picture 2.1***](Module_1_Challenge/Resources/Picture_2.1.png)
  
 Then, I organized the data according to the need of our goals for the project. As Louise is interested in the “plays” which comes in “theater” category. 
 I created pivot tables and charts to check the effect of length of campaign on it success. I created another table and chart for plays outcomes based on their monetary goals which are shown and discussed in the following 3.1 and 3.2 sections. 
@@ -27,12 +27,12 @@ I created pivot tables and charts to check the effect of length of campaign on i
 ***Challenge 3:*** It was quite challenging to create the table for the outcome of plays based on goal as there so many COUNTIFS looped in each other. At first it was confusing, and I kept doing mistake. But with practice and meticulous attention I was able to successfully produce the chart. Please chech the following picture for reference. 
 
 **Refer Picture 2.2**
- 
+ Module_1_Challenge/Resources/Picture_2.2.png
 
 # 3.	Results
 ## 3.1	Analysis of Outcomes Based on Launch Date
 
-***Refer picture 3.1*** 
+***Refer picture 3.1*** Module_1_Challenge/Resources/Picture_3.1.png
 
 **Conclusion 1:** The month of May has highest number of successful Theater outcomes.
 
@@ -40,7 +40,7 @@ I created pivot tables and charts to check the effect of length of campaign on i
 
 ## 3.2	Analysis of Outcomes Based on Goals
 
-***Refer picture 3.2***
+***Refer picture 3.2*** Module_1_Challenge/Resources/Picture_3.2.png
 
 **Conclusion:** The highest percentage of Successful outcomes in “Plays” subcategory was found to be in goal range of less than $1000. And the highest number of failed outcomes in “Play” subcategory was in the goal range of $45,000 to 49,999. 
 
@@ -52,7 +52,7 @@ There could be multiple number of possible tables and/or graphs that could be cr
 
 **a.**	 The outcomes based on launch date chart (picture 3.1) is misleading. The chart in section 3.1 is showing that the month of May has the highest number of successful Theater outcomes, but the month of May also has a highest number of failed outcomes. So, if we plot the successful outcomes in relation to the total outcomes then there is not much significant peak in that month. 
 
-***Refer picture 3.4 (a)***
+***Refer picture 3.4 (a)***Module_1_Challenge/Resources/Picture_3.4_a.png
 
 
 **b.** With time, place, and generations the choice of entertainment changes. It would be helpful if we can see if there is a increase or decrease in the popularity of the theater over each year. Or if people in the given country is seeking out to other sources of entertainment over watching plays. So, a graph for year versus successful and failed theater would tell the how the trend is going.  The following pictures of pivot table and chart shows the trend of outcomes over the years, and it clearly shows that there was an increasing trend from 2010 till 2015 but then there is a decrease in 2016 and 2017 from previous years. 
@@ -60,6 +60,6 @@ So, we should investigate further to identify what has influenced such trend.
  
 
  
-***Refer picture 3.4 (b)***
+***Refer picture 3.4 (b)***Module_1_Challenge/Resources/Picture_3.4_b.png
 
 
