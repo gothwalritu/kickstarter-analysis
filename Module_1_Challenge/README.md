@@ -19,7 +19,7 @@ Now that the data is clean, filtered, formatted and ready for performing the ana
 
 At this stage we had a data of Kickstarters which were successful or nearly missed within similar funding range i.e., 10,000. To further refine the data, we used Pivot table to remove other categories but “Theater”. And then we created another pivot table using subcategories in order to focus on analysis on an area that is more relevant for Louise i.e., "play". With the analysis I came to know that plays subcategory was the most successful in US as well as Great Britain. The ***picture 2.1*** shows a pivot table and a bar chart for the country "Great Britain".
 
-![***Refer Picture 2.1 in Resources folder***](Module_1_Challenge/Resources/Picture_2.1.png)
+![***Refer Picture 2.1 in Resources folder***](/Module_1_Challenge/Resources/Picture_2.1.png)
  
 Then, I organized the data according to the need of our goals for the project. As Louise is interested in the “plays” which comes in “theater” category. 
 I created pivot tables and charts to check the effect of length of campaign on it success. I created another table and chart for plays outcomes based on their monetary goals which are shown and discussed in the following 3.1 and 3.2 sections. 
