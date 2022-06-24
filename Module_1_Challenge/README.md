@@ -26,12 +26,12 @@ I created pivot tables and charts to check the effect of length of campaign on i
 
 ***Challenge 3:*** It was quite challenging to create the table for the outcome of plays based on goal as there so many COUNTIFS looped in each other. At first it was confusing, and I kept doing mistake. But with practice and meticulous attention I was able to successfully produce the chart. Please chech the following picture for reference. 
 
-![**Refer Picture 2.2 in Resources folder**](Module_1_Challenge/Resources/Picture_2.2.png)
+![**Refer Picture 2.2 in Resources folder**](/Module_1_Challenge/Resources/Picture_2.2.png)
 
 # 3.	Results
 ## 3.1	Analysis of Outcomes Based on Launch Date
 
-![***Refer picture 3.1 in Resources folder***](Module_1_Challenge/Resources/Picture_3.1.png)
+![***Refer picture 3.1 in Resources folder***](/Module_1_Challenge/Resources/Picture_3.1.png)
 
 **Conclusion 1:** The month of May has highest number of successful Theater outcomes.
 
@@ -39,7 +39,7 @@ I created pivot tables and charts to check the effect of length of campaign on i
 
 ## 3.2	Analysis of Outcomes Based on Goals
 
-![***Refer picture 3.2 in Resources folder***](Module_1_Challenge/Resources/Picture_3.2.png)
+![***Refer picture 3.2 in Resources folder***](/Module_1_Challenge/Resources/Picture_3.2.png)
 
 **Conclusion:** The highest percentage of Successful outcomes in “Plays” subcategory was found to be in goal range of less than $1000. And the highest number of failed outcomes in “Play” subcategory was in the goal range of $45,000 to 49,999. 
 
@@ -51,7 +51,7 @@ There could be multiple number of possible tables and/or graphs that could be cr
 
 **a.**	 The outcomes based on launch date chart (picture 3.1) is misleading. The chart in section 3.1 is showing that the month of May has the highest number of successful Theater outcomes, but the month of May also has a highest number of failed outcomes. So, if we plot the successful outcomes in relation to the total outcomes then there is not much significant peak in that month. 
 
-![***Refer picture 3.4 (a) in Resources folder***](Module_1_Challenge/Resources/Picture_3.4_a.png)
+![***Refer picture 3.4 (a) in Resources folder***](/Module_1_Challenge/Resources/Picture_3.4_a.png)
 
 
 **b.** With time, place, and generations the choice of entertainment changes. It would be helpful if we can see if there is a increase or decrease in the popularity of the theater over each year. Or if people in the given country is seeking out to other sources of entertainment over watching plays. So, a graph for year versus successful and failed theater would tell the how the trend is going.  The following pictures of pivot table and chart shows the trend of outcomes over the years, and it clearly shows that there was an increasing trend from 2010 till 2015 but then there is a decrease in 2016 and 2017 from previous years. 
@@ -59,6 +59,6 @@ So, we should investigate further to identify what has influenced such trend.
  
 
  
-![***Refer picture 3.4 (b) in Resources folder***](Module_1_Challenge/Resources/Picture_3.4_b.png)
+![***Refer picture 3.4 (b) in Resources folder***](/Module_1_Challenge/Resources/Picture_3.4_b.png)
 
 
